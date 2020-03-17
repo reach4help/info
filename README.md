@@ -56,10 +56,10 @@ including:
 
 ### UX & Design
 
-We have an initial Mural mockup for the app that you can see here:
+We have an initial Mural UX mockup for the app that you can see here:
 https://app.mural.co/t/projectneighborhoodassistanc9176/m/projectneighborhoodassistanc9176/1584396026453
 
-
+And some initial Figma design mockups here: https://www.figma.com/file/OiU7Tl4k1YFfqZQXxLaRrl/Neighborhood-Assistance?node-id=0%3A1
 
 
 
