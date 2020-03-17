@@ -19,12 +19,50 @@ We’ve reached out to a few organizations for partnerships and one of them, Viz
 Please see the [Main Document](https://docs.google.com/document/d/1sdKn4K2cJfs3yRD1Xl4iGxLw9T3bNI2TeSHNygV22vQ/edit#heading=h.3kjpfzif6i5g)
 for more information.
 
-## Project Leads
+## Project Team
 
-| Slack              | GitHub                                                 | Role          |
-|--------------------|--------------------------------------------------------|---------------|
-| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead     |
-| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead     |
+### Project Management
+
+| Slack              | GitHub Handle                                          | Role                   |
+|--------------------|--------------------------------------------------------|------------------------|
+| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead              |
+| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead              |
+| @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation Lead     |
+| @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead     |
+| @Jeni Rainer       |         | Product Lead / Manager |
+
+### Backend / Infrastructure
+
+| Slack                | GitHub Handle                                          | Role |
+|----------------------|--------------------------------------------------------|------|
+| @Jon Carlos          |                                                        | Lead |
+| @Katherine Rodriguez |                                                        | Lead |
+| You?                 |                                                        |      |
+|                      |                                                        |      |
+
+### Frontend
+
+| Slack                | GitHub Handle                                          | Role |
+|----------------------|--------------------------------------------------------|------|
+| @David Alecrim       |                                                        | Lead |
+| You?                 |                                                        |      |
+|                      |                                                        |      |
+
+### UX / Design
+
+| Slack                | GitHub Handle                                          | Role        |
+|----------------------|--------------------------------------------------------|-------------|
+| @Sam Lanning         |  [@s0](https://github.com/s0)                          | UX Lead     |
+| You?                 |                                                        | Design Lead |
+| You?                 |                                                        |             |
+|                      |                                                        |             |
+
+## Tech Stack
+
+* Frontend: React/Gatsby (PWA)
+* Backend APIs: Node.js (Strapi)
+* DB: MongoDB
+* CI/CD: TODO (need help here)
 
 ## Get Involved
 
