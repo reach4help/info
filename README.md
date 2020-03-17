@@ -30,6 +30,7 @@ for more information.
 | @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation Lead     |
 | @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead     |
 | @Jeni Rainer       | [@jenirainerpdx](https://github.com/jenirainerpdx)     | Product Lead / Manager |
+| @Cinthya Jauregui  |                                                        | Translation Lead       |
 
 ### Backend / Infrastructure
 
