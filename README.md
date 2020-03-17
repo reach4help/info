@@ -35,27 +35,23 @@ for more information.
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
-| @Jon Carlos          |                                                        | Lead |
-| @Katherine Rodriguez |                                                        | Lead |
+| @Jon Carlos          |  [@webmonger](https://github.com/webmonger)            | Lead |
+| @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
 | You?                 |                                                        |      |
-|                      |                                                        |      |
 
 ### Frontend
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
-| @David Alecrim       |                                                        | Lead |
+| @David Alecrim       | [@comoser](https://github.com/comoser)                 | Lead |
 | You?                 |                                                        |      |
-|                      |                                                        |      |
 
 ### UX / Design
-
 | Slack                | GitHub Handle                                          | Role        |
 |----------------------|--------------------------------------------------------|-------------|
-| @Sam Lanning         |  [@s0](https://github.com/s0)                          | UX Lead     |
+| @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
 | You?                 |                                                        | Design Lead |
 | You?                 |                                                        |             |
-|                      |                                                        |             |
 
 ## Tech Stack
 
