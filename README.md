@@ -1,7 +1,7 @@
 # COVID-19 Neighborhood Assistance Project
 
 This project is part of [#projectopenair](https://www.projectopenair.org/),
-a collection of "Helpful Endineers"
+a collection of "Helpful Engineers"
 who have congregated to help in the COVID-19 Coronavirus Pandemic.
 
 This project is currently still in the proposal stage,
