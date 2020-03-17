@@ -50,7 +50,7 @@ for more information.
 | Slack                | GitHub Handle                                          | Role        |
 |----------------------|--------------------------------------------------------|-------------|
 | @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
-| You?                 |                                                        | Design Lead |
+| @Cinthya Jauregui    |                                                        | UI Lead     |
 | You?                 |                                                        |             |
 
 ## Tech Stack
