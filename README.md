@@ -29,7 +29,7 @@ for more information.
 | @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead              |
 | @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation Lead     |
 | @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead     |
-| @Jeni Rainer       |         | Product Lead / Manager |
+| @Jeni Rainer       | [@jenirainerpdx](https://github.com/jenirainerpdx)     | Product Lead / Manager |
 
 ### Backend / Infrastructure
 
