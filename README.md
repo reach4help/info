@@ -48,6 +48,9 @@ for more information.
 | You?                 |                                                        |      |
 
 ### UX / Design
+
+Slack Channel: `#project-neighbourhood-assistance-ux-design`
+
 | Slack                | GitHub Handle                                          | Role        |
 |----------------------|--------------------------------------------------------|-------------|
 | @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
@@ -93,6 +96,8 @@ including:
 
 We have an initial Mural UX mockup for the app that you can see here:
 https://app.mural.co/t/projectneighborhoodassistanc9176/m/projectneighborhoodassistanc9176/1584396026453
+
+We're actively working on the UX / Workflow here: https://www.lucidchart.com/invitations/accept/4d81f65a-86b5-4684-b221-f67781b372f5
 
 And some initial Figma design mockups here: https://www.figma.com/file/OiU7Tl4k1YFfqZQXxLaRrl/Neighborhood-Assistance?node-id=0%3A1
 
