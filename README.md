@@ -30,13 +30,13 @@ for more information.
 | @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation Lead     |
 | @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead     |
 | @Jeni Rainer       | [@jenirainerpdx](https://github.com/jenirainerpdx)     | Product Lead / Manager |
-| @Cinthya Jauregui  |                                                        | Translation Lead       |
+| @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead       |
 
 ### Backend / Infrastructure
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
-| @Jon Carlos          |  [@webmonger](https://github.com/webmonger)            | Lead |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
 | You?                 |                                                        |      |
 
@@ -51,7 +51,7 @@ for more information.
 | Slack                | GitHub Handle                                          | Role        |
 |----------------------|--------------------------------------------------------|-------------|
 | @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
-| @Cinthya Jauregui    |                                                        | UI Lead     |
+| @Cinthya Jauregui    | [@cinthyaejh](https://github.com/cinthyaejh)           | UI Lead     |
 | You?                 |                                                        |             |
 
 ## Tech Stack
