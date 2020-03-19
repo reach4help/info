@@ -68,6 +68,25 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 | @Telmo Dias          | [@telmodias](https://github.com/telmodias)             |             |
 | You?                 |                                                        |             |
 
+### User Testing / QA
+
+| Slack                | GitHub Handle                                          | Role        |
+|----------------------|--------------------------------------------------------|-------------|
+| You?                 |                                                        |             |
+
+### Marketing / PR
+
+| Slack                | GitHub Handle                                          | Role        |
+|----------------------|--------------------------------------------------------|-------------|
+| You?                 |                                                        |             |
+
+### Application Security
+
+| Slack                | GitHub Handle                                          | Role        |
+|----------------------|--------------------------------------------------------|-------------|
+| You?                 |                                                        |             |
+
+
 ## Tech Stack
 
 * Frontend: React/Gatsby (PWA)
