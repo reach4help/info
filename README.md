@@ -1,6 +1,6 @@
 # COVID-19 Neighborhood Assistance Project
 
-This project is part of [#projectopenair](https://www.projectopenair.org/),
+This project is part of [Helpful Engineering](hhttps://www.helpfulengineering.org/),
 a collection of "Helpful Engineers"
 who have congregated to help in the COVID-19 Coronavirus Pandemic.
 
@@ -81,6 +81,8 @@ volunteering.
 2. **Slack Channel**: Join our main slack channel on
   [helpfulengineering.slack.com](https://helpfulengineering.slack.com/) is
   `#neighborhood-assistance`
+  (information on how to join the Slack can be found on here:
+  [helpfulengineering.org](https://www.helpfulengineering.org/))
 3. **Trello Board:** This is where we post all the tasks we need to do,
   [Invitation Link](https://trello.com/invite/b/2QLITR5U/4375c4a349da8a7a88d8302368899a62/neighbourhood-assistance).
 4. **Team Skills Document:** Please fill out the
