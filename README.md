@@ -31,12 +31,19 @@ for more information.
 | @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead           |
 | @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead             |
 
-### Backend / Infrastructure
+### Infrastructure
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
 | @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
+| You?                 |                                                        |      |
+
+### Backend
+
+| Slack                | GitHub Handle                                          | Role |
+|----------------------|--------------------------------------------------------|------|
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
 | @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       |      |
 | You?                 |                                                        |      |
