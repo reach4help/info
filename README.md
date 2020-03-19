@@ -35,17 +35,17 @@ for more information.
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
-| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      |
 | You?                 |                                                        |      |
 
 ### Backend
 
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
-| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
+| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       | Lead |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      |
 | @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
-| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       |      |
 | You?                 |                                                        |      |
 
 ### Frontend
