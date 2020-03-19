@@ -23,14 +23,13 @@ for more information.
 
 ### Project Management
 
-| Slack              | GitHub Handle                                          | Role                   |
-|--------------------|--------------------------------------------------------|------------------------|
-| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead              |
-| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead              |
-| @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation Lead     |
-| @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead     |
-| @Jeni Rainer       | [@jenirainerpdx](https://github.com/jenirainerpdx)     | Product Lead / Manager |
-| @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead       |
+| Slack              | GitHub Handle                                          | Role                         |
+|--------------------|--------------------------------------------------------|------------------------------|
+| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead                    |
+| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead                    |
+| @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation & Product Lead |
+| @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead           |
+| @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead             |
 
 ### Backend / Infrastructure
 
@@ -38,6 +37,8 @@ for more information.
 |----------------------|--------------------------------------------------------|------|
 | @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
+| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
+| @Wilson Rodrigues    |                                                        |      |
 | You?                 |                                                        |      |
 
 ### Frontend
@@ -45,6 +46,8 @@ for more information.
 | Slack                | GitHub Handle                                          | Role |
 |----------------------|--------------------------------------------------------|------|
 | @David Alecrim       | [@comoser](https://github.com/comoser)                 | Lead |
+| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
+| @Rúben Gonçalves     | [@rbgoncalves](https://github.com/rbgoncalves)         |      |
 | You?                 |                                                        |      |
 
 ### UX / Design
