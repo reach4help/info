@@ -38,7 +38,7 @@ for more information.
 | @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead |
 | @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
 | @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
-| @Wilson Rodrigues    |                                                        |      |
+| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       |      |
 | You?                 |                                                        |      |
 
 ### Frontend
