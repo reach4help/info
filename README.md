@@ -58,6 +58,7 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 |----------------------|--------------------------------------------------------|-------------|
 | @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
 | @Cinthya Jauregui    | [@cinthyaejh](https://github.com/cinthyaejh)           | UI Lead     |
+| @Telmo Dias          | [@telmodias](https://github.com/telmodias)             |             |
 | You?                 |                                                        |             |
 
 ## Tech Stack
