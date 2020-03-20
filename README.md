@@ -129,7 +129,7 @@ volunteering.
 ### Repositories
 
 All of our main repositories are hosted under the
-[neighborhood-assistance](https://github.com/neighborhood-assistance) org,
+[covidapp](https://github.com/covidapp) org,
 including:
   * [`web-backend`](https://github.com/neighborhood-assistance/web-backend)
   * [`web-frontend`](https://github.com/neighborhood-assistance/web-frontend)
