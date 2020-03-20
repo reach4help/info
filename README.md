@@ -89,6 +89,13 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 | @Miguel Fernandes    | [@mdmfernandes](https://github.com/mdmfernandes)       |          | UTC+0 (+1)     |
 | You?                 |                                                        |          |                |
 
+### Map Project
+
+| Slack                | GitHub Handle                                          | Role     | Timezone (DST) |
+|----------------------|--------------------------------------------------------|----------|----------------|
+| @Dan Sabin           | [@sabind](https://github.com/sabind)                   | Lead     | UTC-8 (-7)     |
+| You?                 |                                                        |          |                |
+
 
 ## Tech Stack
 
