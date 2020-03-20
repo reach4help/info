@@ -85,6 +85,7 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 | Slack                | GitHub Handle                                          | Role     | Timezone (DST) |
 |----------------------|--------------------------------------------------------|----------|----------------|
 | @Mathieu Deous       | [@mdeous](https://github.com/mdeous)                   | Lead     | UTC+1 (+2)     |
+| @Miguel Fernandes    | [@mdmfernandes](https://github.com/mdmfernandes)       |          | UTC+0 (+1)     |
 | You?                 |                                                        |          |                |
 
 
