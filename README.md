@@ -78,6 +78,7 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 
 | Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
 |----------------------|--------------------------------------------------------|-------------|----------------|
+| @Miranda             |                                                        | Lead        | UTC+0 (+1)     |
 | You?                 |                                                        |             |                |
 
 ### Application Security
