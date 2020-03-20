@@ -82,9 +82,10 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 
 ### Application Security
 
-| Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
-|----------------------|--------------------------------------------------------|-------------|----------------|
-| You?                 |                                                        |             |                |
+| Slack                | GitHub Handle                                          | Role     | Timezone (DST) |
+|----------------------|--------------------------------------------------------|----------|----------------|
+| @Mathieu Deous       | [@mdeous](https://github.com/mdeous)                   | Lead     | UTC+1 (+2)     |
+| You?                 |                                                        |          |                |
 
 
 ## Tech Stack
