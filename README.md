@@ -23,68 +23,68 @@ for more information.
 
 ### Project Management
 
-| Slack              | GitHub Handle                                          | Role                         |
-|--------------------|--------------------------------------------------------|------------------------------|
-| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead                    |
-| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead                    |
-| @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation & Product Lead |
-| @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead           |
-| @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead             |
+| Slack              | GitHub Handle                                          | Role                         | Timezone (DST) |
+|--------------------|--------------------------------------------------------|------------------------------|----------------|
+| @Pedro Filipe      | [@puzzledbytheweb](https://github.com/puzzledbytheweb) | Core Lead                    | UTC+0 (+1)     |
+| @Shayan Chowdhury  | [@schowdhury8](https://github.com/schowdhury8)         | Core Lead                    | UTC+6 (no DST) |
+| @Sam Lanning       | [@s0](https://github.com/s0)                           | Documentation & Product Lead | UTC+0 (+1)     |
+| @Telmo Dias        | [@telmodias](https://github.com/telmodias)             | Documentation Lead           | UTC+1 (+2)     |
+| @Cinthya Jauregui  | [@cinthyaejh](https://github.com/cinthyaejh)           | Translation Lead             | UTC-8 (-7)     |
 
 ### Infrastructure
 
-| Slack                | GitHub Handle                                          | Role |
-|----------------------|--------------------------------------------------------|------|
-| @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead |
-| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      |
-| You?                 |                                                        |      |
+| Slack                | GitHub Handle                                          | Role | Timezone (DST) |
+|----------------------|--------------------------------------------------------|------|----------------|
+| @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead | UTC-5 (-4)     |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      | UTC+0 (+1)     |
+| You?                 |                                                        |      |                |
 
 ### Backend
 
-| Slack                | GitHub Handle                                          | Role |
-|----------------------|--------------------------------------------------------|------|
-| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       | Lead |
-| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      |
-| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
-| You?                 |                                                        |      |
+| Slack                | GitHub Handle                                          | Role | Timezone (DST) |
+|----------------------|--------------------------------------------------------|------|----------------|
+| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       | Lead | UTC+0 (+1)     |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      | UTC+0 (+1)     |
+| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
+| You?                 |                                                        |      |                |
 
 ### Frontend
 
-| Slack                | GitHub Handle                                          | Role |
-|----------------------|--------------------------------------------------------|------|
-| @David Alecrim       | [@comoser](https://github.com/comoser)                 | Lead |
-| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      |
-| @Rúben Gonçalves     | [@rbgoncalves](https://github.com/rbgoncalves)         |      |
-| You?                 |                                                        |      |
+| Slack                | GitHub Handle                                          | Role | Timezone (DST) |
+|----------------------|--------------------------------------------------------|------|----------------|
+| @David Alecrim       | [@comoser](https://github.com/comoser)                 | Lead | UTC+0 (+1)     |
+| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
+| @Rúben Gonçalves     | [@rbgoncalves](https://github.com/rbgoncalves)         |      | UTC+0 (+1)     |
+| You?                 |                                                        |      |                |
 
 ### UX / Design
 
 Slack Channel: `#project-neighbourhood-assistance-ux-design`
 
-| Slack                | GitHub Handle                                          | Role        |
-|----------------------|--------------------------------------------------------|-------------|
-| @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     |
-| @Cinthya Jauregui    | [@cinthyaejh](https://github.com/cinthyaejh)           | UI Lead     |
-| @Telmo Dias          | [@telmodias](https://github.com/telmodias)             |             |
-| You?                 |                                                        |             |
+| Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
+|----------------------|--------------------------------------------------------|-------------|----------------|
+| @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     | UTC+0 (+1)     |
+| @Cinthya Jauregui    | [@cinthyaejh](https://github.com/cinthyaejh)           | UI Lead     | UTC-8 (-7)     |
+| @Telmo Dias          | [@telmodias](https://github.com/telmodias)             |             | UTC+1 (+2)     |
+| You?                 |                                                        |             |                |
 
 ### User Testing / QA
 
-| Slack                | GitHub Handle                                          | Role        |
-|----------------------|--------------------------------------------------------|-------------|
-| You?                 |                                                        |             |
+| Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
+|----------------------|--------------------------------------------------------|-------------|----------------|
+| You?                 |                                                        |             |                |
 
 ### Marketing / PR
 
-| Slack                | GitHub Handle                                          | Role        |
-|----------------------|--------------------------------------------------------|-------------|
-| You?                 |                                                        |             |
+| Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
+|----------------------|--------------------------------------------------------|-------------|----------------|
+| You?                 |                                                        |             |                |
 
 ### Application Security
 
-| Slack                | GitHub Handle                                          | Role        |
-|----------------------|--------------------------------------------------------|-------------|
-| You?                 |                                                        |             |
+| Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
+|----------------------|--------------------------------------------------------|-------------|----------------|
+| You?                 |                                                        |             |                |
 
 
 ## Tech Stack
