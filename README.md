@@ -119,8 +119,7 @@ volunteering.
   `#neighborhood-assistance`
   (information on how to join the Slack can be found on here:
   [helpfulengineering.org](https://www.helpfulengineering.org/))
-3. **Trello Board:** This is where we post all the tasks we need to do,
-  [Invitation Link](https://trello.com/invite/b/2QLITR5U/4375c4a349da8a7a88d8302368899a62/neighbourhood-assistance).
+3. **GitHub Project Board:** This is where we post all the tasks we need to do: [Main Project Board](https://github.com/orgs/covidaidapp/projects/1).
 4. **Team Skills Document:** Please fill out the
   [google sheet with people/skills/teams](https://docs.google.com/spreadsheets/d/1HOhIguRcVHtiFq7fGSgdDP_XMhWLiDh_PsFm0X7U_8c/edit#gid=0).
 
