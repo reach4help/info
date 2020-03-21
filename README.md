@@ -50,12 +50,15 @@ for more information.
 
 ### Frontend
 
-| Slack                | GitHub Handle                                          | Role | Timezone (DST) |
-|----------------------|--------------------------------------------------------|------|----------------|
-| @David Alecrim       | [@comoser](https://github.com/comoser)                 | Lead | UTC+0 (+1)     |
-| @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
-| @Rúben Gonçalves     | [@rbgoncalves](https://github.com/rbgoncalves)         |      | UTC+0 (+1)     |
-| You?                 |                                                        |      |                |
+| Slack                       | GitHub Handle                                          | Role | Timezone (DST) |
+|-----------------------------|--------------------------------------------------------|------|----------------|
+| @David Alecrim              | [@comoser](https://github.com/comoser)                 | Lead | UTC+0 (+1)     |
+| @Micael Rodrigues           | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
+| @Rúben Gonçalves            | [@rbgoncalves](https://github.com/rbgoncalves)         |      | UTC+0 (+1)     |
+| @João Marques               | [@jpmarques66](https://github.com/jpmarques66)         |      | UTC+0 (+1)     |
+| @Rafael Sanches Ferreira    | [@Rafaelferreiratvd](https://github.com/Rafaelferreiratvd)         |      | UTC+0 (+1)     |
+| @Luís Oliveira              | [@luisFilipePT](https://github.com/luisFilipePT)         |      | UTC+0 (+1)     |
+| You?                        |                                                        |      |                |
 
 ### UX / Design
 
