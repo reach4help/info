@@ -142,5 +142,22 @@ We're actively working on the UX / Workflow here: https://www.lucidchart.com/inv
 
 And some initial Figma design mockups here: https://www.figma.com/file/OiU7Tl4k1YFfqZQXxLaRrl/Neighborhood-Assistance?node-id=0%3A1
 
+### MVP:
+*Volunteer* 
+ - Users can register to volunteer using Facebook ID login (restricting users with accounts created for less than 6 months). If the user doesn't have Facebook we can provide and email for them to contact but we shouldn't waste too much time in this phase;
+ - User can join an existing organization in their proximity;
+ - User can create an organization in their proximity by sending an email (we will verify if there isn't one already to which they can join);
+ - User will be notified of cases near to them(eventually in real-time notification); they can then pick them up or not do anything; we might filter the notification messages inside of the app to only show the cases that are still open at the moment the user opens the notifications menu;
+ - Once the user understands the request is met, they can close the case as solved.
+ - Volunteers should agree to have their name and rating be public (+rep)
+ 
+*PIN (Person In Need)*
+ - User can register via phone number. We confirm with SMS/verification code;
+ - Onboarding process to register person, address, etc.
+ - Create request;
+ - Be notified when request is assigned;                   
+  - Extra step asking if PIN wants to accept volunteer
+ - Receive goods/care asked for. Here I think that the volunteer should have the power to change the request status to solved. If the PIN has access to the app (e.g. is not elder/owns a smartphone) they can confirm the status change. If the PIN cannot do the status confirmation via app we should ponder having a follow up call to verify if the request was fulfilled.
+
 
 
