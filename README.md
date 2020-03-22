@@ -105,7 +105,7 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 * Frontend: React/Gatsby (PWA)
 * Backend APIs: Node.js (Strapi)
 * DB: MongoDB
-* CI/CD: TODO (need help here)
+* CI/CD: Temporarily Heroku, will be moving to Azure
 
 ## Get Involved
 
@@ -133,7 +133,13 @@ All of our main repositories are hosted under the
 [reach4help](https://github.com/reach4help) org,
 including:
   * [`web-backend`](https://github.com/reach4help/web-backend)
-  * [`web-frontend`](https://github.com/reach4help/web-backend)
+  * [`web-frontend`](https://github.com/reach4help/web-frontend)
+
+### Infrastructure and Deployment
+
+We will be using heroku in the early stages of the project to deploy to a test domain. 
+https://dashboard.heroku.com/apps/reach4help
+
 
 ### UX & Design
 
