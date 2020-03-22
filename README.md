@@ -1,4 +1,4 @@
-# COVID-19 Neighborhood Assistance Project
+# Reach4Help
 
 This project is part of [Helpful Engineering](hhttps://www.helpfulengineering.org/),
 a collection of "Helpful Engineers"
@@ -10,7 +10,7 @@ in anticipation of it advancing beyond that stage.
 
 [See proposal document](https://github.com/Helpful-Engineers/resources/blob/master/software/proposals/neighbourhood_assistance.md).
 
-## Project Description
+## Description
 
 People who are at high risk from COVID-19 or are quarantined are unable to leave their houses and obtain necessities like food and medical supplies without putting themselves or others at risk. We aim to facilitate support requests for these people and act as a bridge between them and reputable volunteer organizations that can help, such as government organizations, churches and local Red Cross establishments. These organizations are all reputable and conduct the appropriate background checks on their volunteers to ensure that no foul play happens. After all, we’re trying to create a safe and familiar environment that people can count on.
 
@@ -19,7 +19,7 @@ We’ve reached out to a few organizations for partnerships and one of them, Viz
 Please see the [Main Document](https://docs.google.com/document/d/1sdKn4K2cJfs3yRD1Xl4iGxLw9T3bNI2TeSHNygV22vQ/edit#heading=h.3kjpfzif6i5g)
 for more information.
 
-## Project Team
+## Meet the Team
 
 ### Project Management
 
@@ -114,50 +114,49 @@ and yet to complete fleshing out the various project teams and leaders.
 But you are welcome join the conversation and express your interest in
 volunteering.
 
-1. **Main Document:** Firstly, make sure you've read the
-  [Main Document](https://docs.google.com/document/d/1sdKn4K2cJfs3yRD1Xl4iGxLw9T3bNI2TeSHNygV22vQ/edit#heading=h.3kjpfzif6i5g)
-  in full.
-2. **Slack Channel**: Join our main slack channel on
-  [helpfulengineering.slack.com](https://helpfulengineering.slack.com/) is
-  `#neighborhood-assistance`
-  (information on how to join the Slack can be found on here:
+1. **Main Document:** Learn more about our mission in our 
+  [Main Document](https://docs.google.com/document/d/1sdKn4K2cJfs3yRD1Xl4iGxLw9T3bNI2TeSHNygV22vQ/edit#heading=h.3kjpfzif6i5g).
+2. **Slack Channel**: Join our main Slack channel on
+  [helpfulengineering.slack.com](https://helpfulengineering.slack.com/) called
+  `#project-reach4help`
+  (info on joining the Slack can be found here:
   [helpfulengineering.org](https://www.helpfulengineering.org/))
-3. **GitHub Project Board:** This is where we post all the tasks we need to do: [Main Project Board](https://github.com/orgs/covidaidapp/projects/1).
-4. **Team Skills Document:** Please fill out the
-  [google sheet with people/skills/teams](https://docs.google.com/spreadsheets/d/1HOhIguRcVHtiFq7fGSgdDP_XMhWLiDh_PsFm0X7U_8c/edit#gid=0).
+3. **GitHub Project Board:** Watch our progress through our tasks and milestones on our [Main Project Board](https://github.com/orgs/reach4help/projects/1).
+4. **Volunteer Sign-Up Form:** Apply to become a member of our team by filling out 
+  [this form](https://docs.google.com/forms/d/e/1FAIpQLSfcfxBKrr6d5eNXQu9YfkT67vH4g99S7wjmly-qwuA7nSk6zw/viewform?usp=sf_link)!
 
 ## Project Status
 
 ### Repositories
 
 All of our main repositories are hosted under the
-[covidapp](https://github.com/covidapp) org,
+[reach4help](https://github.com/reach4help) org,
 including:
-  * [`web-backend`](https://github.com/neighborhood-assistance/web-backend)
-  * [`web-frontend`](https://github.com/neighborhood-assistance/web-frontend)
+  * [`web-backend`](https://github.com/reach4help/web-backend)
+  * [`web-frontend`](https://github.com/reach4help/web-backend)
 
 ### UX & Design
 
-We have an initial Mural UX mockup for the app that you can see here:
-https://app.mural.co/t/projectneighborhoodassistanc9176/m/projectneighborhoodassistanc9176/1584396026453
+We have an initial Mural UX mockup for the app that you can see [here](https://app.mural.co/t/projectneighborhoodassistanc9176/m/projectneighborhoodassistanc9176/1584396026453
+).
 
-We're actively working on the UX / Workflow here: https://www.lucidchart.com/invitations/accept/4d81f65a-86b5-4684-b221-f67781b372f5
+We're actively working on the UX / Workflow [here](https://www.lucidchart.com/invitations/accept/4d81f65a-86b5-4684-b221-f67781b372f5).
 
-And some initial Figma design mockups here: https://www.figma.com/file/OiU7Tl4k1YFfqZQXxLaRrl/Neighborhood-Assistance?node-id=0%3A1
+And some initial Figma design mockups [here](https://www.figma.com/file/OiU7Tl4k1YFfqZQXxLaRrl/Neighborhood-Assistance?node-id=0%3A1)!
 
-### MVP:
-*Volunteer* 
- - Users can register to volunteer using Facebook ID login (restricting users with accounts created for less than 6 months). If the user doesn't have Facebook we can provide and email for them to contact but we shouldn't waste too much time in this phase;
- - User will be notified of cases near to them(eventually in real-time notification). They can then pick them up or not do anything; we might filter the notification messages inside of the app to only show the cases that are still open at the moment the user opens the notifications menu;
- - Once the user understands the request is met, they can close the case as solved.
- - Volunteers must agree to have their name and rating be public (in phase 1 this will be an internal rating only for analysis purposes)
+### MVP Workflow:
+*Volunteer*
+- Users can register to volunteer using Facebook ID login (restricting users with accounts created for less than 6 months). If the user doesn't have Facebook we can provide and email for them to contact but we shouldn't waste too much time in this phase;
+- User will be notified of cases near to them (eventually in real-time push notifications); they can then pick them up or not do anything; we might filter the notification messages inside of the app to only show the cases that are still open at the moment the user opens the notifications menu;
+- Once the user understands the request is met, they can close the case as solved.
+- User should agree to have their name and rating be public (+rep).
  
-*PIN (Person In Need)*
- - User can register using the same onboarding process as volunteer (Facebook ID)
- - Create request;
- - Be notified when request is assigned;                   
+*Person In Need (PIN)*
+- User can register via phone number. We confirm with SMS/verification code;
+- Onboarding process to register person, address, etc. If registration is for another person it might be a good idea to add a phone number to call in case of request assignment. For example to enable an elder person to receive a phone call by the volunteer assigned to its request;
+- Create request;
+- Be notified when request is assigned;                   
   - Extra step asking if PIN wants to accept volunteer
- - Receive goods/care asked for. Here I think that the volunteer should have the power to change the request status to solved. If the PIN has access to the app (e.g. is not elder/owns a smartphone) they can confirm the status change. If the PIN cannot do the status confirmation via app we should ponder having a follow up call to verify if the request was fulfilled.
-
-
-
+- Receive their requested goods/care. Volunteer should have the power to change the request status to solved, but PIN has final say. 
+  - If the PIN has access to the app (e.g. is not elderly/owns a smartphone) they can confirm the status change. 
+  - If the PIN cannot do the status confirmation via app, follow up to verify if the request was fulfilled. 
