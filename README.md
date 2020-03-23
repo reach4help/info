@@ -66,9 +66,9 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 
 | Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
 |----------------------|--------------------------------------------------------|-------------|----------------|
-| @Sam Lanning         | [@s0](https://github.com/s0)                           | UX Lead     | UTC+0 (+1)     |
+| @Telmo Dias          | [@telmodias](https://github.com/telmodias)             | UX Lead     | UTC+1 (+2)     |
 | @Cinthya Jauregui    | [@cinthyaejh](https://github.com/cinthyaejh)           | UI Lead     | UTC-8 (-7)     |
-| @Telmo Dias          | [@telmodias](https://github.com/telmodias)             |             | UTC+1 (+2)     |
+| @Sam Lanning         | [@s0](https://github.com/s0)                           |             | UTC+0 (+1)     |
 | You?                 |                                                        |             |                |
 
 ### User Testing / QA
