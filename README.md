@@ -75,6 +75,7 @@ Slack Channel: `#project-neighbourhood-assistance-ux-design`
 
 | Slack                | GitHub Handle                                          | Role        | Timezone (DST) |
 |----------------------|--------------------------------------------------------|-------------|----------------|
+| @Dan Benamy          | [@dbenamy](https://github.com/dbenamy)                 | Lead        | UTC+4 (+5)     |
 | You?                 |                                                        |             |                |
 
 ### Marketing / PR
