@@ -133,8 +133,8 @@ volunteering.
 All of our main repositories are hosted under the
 [reach4help](https://github.com/reach4help) org,
 including:
-  * [`web-backend`](https://github.com/reach4help/web-backend)
-  * [`web-frontend`](https://github.com/reach4help/web-frontend)
+  * [`API Backend`](https://github.com/reach4help/reach4help/tree/master/api)
+  * [`Web Client Frontend`](https://github.com/reach4help/reach4help/tree/master/web-client)
 
 ### Infrastructure and Deployment
 
