@@ -117,11 +117,7 @@ volunteering.
 
 1. **Main Document:** Learn more about our mission in our 
   [Main Document](https://docs.google.com/document/d/1sdKn4K2cJfs3yRD1Xl4iGxLw9T3bNI2TeSHNygV22vQ/edit#heading=h.3kjpfzif6i5g).
-2. **Slack Channel**: Join our main Slack channel on
-  [helpfulengineering.slack.com](https://helpfulengineering.slack.com/) called
-  `#project-reach4help`
-  (info on joining the Slack can be found here:
-  [helpfulengineering.org](https://www.helpfulengineering.org/))
+2. **Slack Channel**: Join our Slack - [reach4help.slack.com](https://join.slack.com/t/reach4help/shared_invite/zt-cu9pfz83-pAIKBDha17r5~W4thvn2Bw)
 3. **GitHub Project Board:** Watch our progress through our tasks and milestones on our [Main Project Board](https://github.com/orgs/reach4help/projects/1).
 4. **Volunteer Sign-Up Form:** Apply to become a member of our team by filling out 
   [this form](https://docs.google.com/forms/d/e/1FAIpQLSfcfxBKrr6d5eNXQu9YfkT67vH4g99S7wjmly-qwuA7nSk6zw/viewform?usp=sf_link)!
