@@ -35,27 +35,30 @@ for more information.
 
 | Slack                | GitHub Handle                                          | Role | Timezone (DST) |
 |----------------------|--------------------------------------------------------|------|----------------|
-| @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               | Lead | UTC-5 (-4)     |
-| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      | UTC+0 (+1)     |
+| @Jon Carlos          | [@webmonger](https://github.com/webmonger)             | Lead | UTC+0 (+1)     |
+| @Katherine Rodriguez | [@edmkitty](https://github.com/edmkitty)               |      | UTC-5 (-4)     |
 | You?                 |                                                        |      |                |
 
 ### Backend
 
 | Slack                | GitHub Handle                                          | Role | Timezone (DST) |
 |----------------------|--------------------------------------------------------|------|----------------|
-| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       | Lead | UTC+0 (+1)     |
+| @Dan Sabin           | [@sabind](https://github.com/sabind)                   | Lead | UTC-8 (-7)     |
+| @Wilson Rodrigues    | [@wr46](https://github.com/wr46)                       |      | UTC+0 (+1)     |
 | @Jon Carlos          | [@webmonger](https://github.com/webmonger)             |      | UTC+0 (+1)     |
 | @Micael Rodrigues    | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
+
 | You?                 |                                                        |      |                |
 
 ### Frontend
 
 | Slack                       | GitHub Handle                                          | Role | Timezone (DST) |
 |-----------------------------|--------------------------------------------------------|------|----------------|
-| @David Alecrim              | [@comoser](https://github.com/comoser)                 | Lead | UTC+0 (+1)     |
+| @João Marques               | [@jpmarques66](https://github.com/jpmarques66)         | Lead | UTC+0 (+1)     |
+| @Joseph Ashwin Kottapurath  | [@jashwinkjoseph](https://github.com/ashwinkjoseph)    |      | UTC+4 (+5)     |
+| @David Alecrim              | [@comoser](https://github.com/comoser)                 |      | UTC+0 (+1)     |
 | @Micael Rodrigues           | [@micaelr95](https://github.com/micaelr95)             |      | UTC+0 (+1)     |
 | @Rúben Gonçalves            | [@rbgoncalves](https://github.com/rbgoncalves)         |      | UTC+0 (+1)     |
-| @João Marques               | [@jpmarques66](https://github.com/jpmarques66)         |      | UTC+0 (+1)     |
 | @Rafael Sanches Ferreira    | [@Rafaelferreiratvd](https://github.com/Rafaelferreiratvd)         |      | UTC+0 (+1)     |
 | @Luís Oliveira              | [@luisFilipePT](https://github.com/luisFilipePT)         |      | UTC+0 (+1)     |
 | You?                        |                                                        |      |                |
